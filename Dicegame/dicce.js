@@ -1,6 +1,7 @@
 let header = document.querySelector("h1");
 let player1 = document.querySelector(".img1");
 let player2 = document.querySelector(".img2");
+let playAgain = document.querySelector("h4");
 
 let randomNum1 = randomNum();
 let randomNum2 = randomNum();
@@ -20,6 +21,10 @@ document.addEventListener("keypress", function (event) {
 	if (event.which === 32) {
 		newGame();
 	}
+});
+
+playAgain.addEventListener("click", function () {
+	newGame();
 });
 
 function newGame() {
