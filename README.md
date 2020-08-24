@@ -2,4 +2,4 @@
 two dice get rolled. whoever wins wins. 
 Press Space to roll the dice again.
 
-<img src="/Dicegame/images/dicegameSS.png" alt="Girl in a jacket" width="500" height="600">
+<img src="/Dicegame/images/dicegameSS.png" alt="Girl in a jacket">
