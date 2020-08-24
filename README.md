@@ -1,4 +1,5 @@
 # diceGame
 two dice get rolled. whoever wins wins. 
 Press Space to roll the dice again.
-![Alt text](ShreddedPork/diceGame/Dicegame/images/dicegameSS.png?raw=true "Optional Title")
+
+<img src="/Dicegame/images/dicegameSS.png" alt="Girl in a jacket" width="500" height="600">
